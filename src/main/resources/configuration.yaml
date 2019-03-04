@@ -1,0 +1,9 @@
+# Data for testing
+url: http://automationpractice.com
+email: alla.zotova1993@gmail.com
+password: asdf1718
+test:
+  testInside: valueInside
+anotherTestKeys:
+  - value1
+  - value2
